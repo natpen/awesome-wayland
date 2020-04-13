@@ -52,6 +52,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 
 * [bemenu](https://github.com/Cloudef/bemenu) - Dynamic menu library and client program inspired by dmenu
 * [LavaLauncher](https://git.sr.ht/~leon_plickat/lavalauncher) - A simple launcher panel for Wayland desktops
+* [Mauncher](https://github.com/mortie/mauncher) - a GTK-based alternative to dmenu for Wayland which supports display scaling
 * [Wofi](https://hg.sr.ht/~scoopta/wofi) - a launcher/menu program for wlroots based wayland compositors such as sway
 
 ## Libraries
