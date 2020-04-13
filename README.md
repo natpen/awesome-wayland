@@ -96,6 +96,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 
 ## Wallpaper
 
+* [oguri](https://github.com/vilhalmer/oguri) - A very nice animated wallpaper daemon for Wayland compositors
 * [swaybg](https://github.com/swaywm/swaybg) - a wallpaper utility for Wayland compositors
 
 ## License
