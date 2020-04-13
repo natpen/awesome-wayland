@@ -14,6 +14,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   - [Launchers](#launchers)
   - [Libraries]($libraries)
   - [Notifications](#notifications)
+  - [PDF Viewers](#pdf-viewers)
   - [Screen Locking](#screen-locking)
   - [Screencasting](#screencasting)
   - [Screenshots](#screenshots)
@@ -59,6 +60,10 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 ## Notifications
 
 * [Mako](https://github.com/emersion/mako) - A lightweight Wayland notification daemon
+
+## PDF Viewers
+
+* [zathura](https://git.pwmt.org/pwmt/zathura) - A document viewer
 
 ## Screen Locking
 
