@@ -18,6 +18,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   - [Screen Locking](#screen-locking)
   - [Screencasting](#screencasting)
   - [Screenshots](#screenshots)
+  - [Session Management](#session-management)
   - [Status Bars](#status-bars)
   - [Terminal Emulators](#terminal-emulators)
   - [Video Players](#video-players)
@@ -85,6 +86,10 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [Grim](https://github.com/emersion/grim) - Grab images from a Wayland compositor
 * [Slurp](https://github.com/emersion/slurp) - Select a region in a Wayland compositor
 * [Swappy](https://github.com/jtheoof/swappy) - A Wayland-native snapshot editing tool, inspired by Snappy on macOS
+
+## Session Management
+
+* [wlogout](https://github.com/ArtsyMacaw/wlogout) - A Wayland-based logout menu
 
 ## Status Bars
 
