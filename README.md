@@ -42,6 +42,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 
 ## Launchers
 
+* [LavaLauncher](https://git.sr.ht/~leon_plickat/lavalauncher) - A simple launcher panel for Wayland desktops
 * [Wofi](https://hg.sr.ht/~scoopta/wofi) - a launcher/menu program for wlroots based wayland compositors such as sway
 
 ## Libraries
