@@ -84,6 +84,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 
 * [Grim](https://github.com/emersion/grim) - Grab images from a Wayland compositor
 * [Slurp](https://github.com/emersion/slurp) - Select a region in a Wayland compositor
+* [Swappy](https://github.com/jtheoof/swappy) - A Wayland-native snapshot editing tool, inspired by Snappy on macOS
 
 ## Status Bars
 
