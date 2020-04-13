@@ -55,6 +55,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 
 ## Libraries
 
+* [client toolkit](https://github.com/Smithay/client-toolkit) - a toolkit for writing wayland clients in Rust
 * [wlroots](https://github.com/swaywm/wlroots) - Pluggable, composable, unopinionated modules for building a Wayland compositor
 
 ## Notifications
