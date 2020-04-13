@@ -57,6 +57,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [swayidle](https://github.com/swaywm/swayidle) - Idle management daemon for Wayland
 * [swaylock](https://github.com/swaywm/swaylock) - Screen locker for Wayland
 * [swaylock-blur](https://github.com/cjbassi/swaylock-blur) - A small Rust program that runs swaylock and sets the image to a blurred screenshot of the desktop
+* [waylock](https://github.com/ifreund/waylock) - A simple screenlocker for wayland compositors
 
 ## Screencasting
 
