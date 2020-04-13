@@ -10,6 +10,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   - [Clipboard Managers](#clipboard-managers)
   - [Compositors](#compositors)
   - [Display Configuration](#display-configuration)
+  - [Image Viewers](#image-viewers)
   - [Launchers](#launchers)
   - [Libraries]($libraries)
   - [Notifications](#notifications)
@@ -39,6 +40,10 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 ## Display Configuration
 
 * [Kanshi](https://github.com/emersion/kanshi) - Dynamic display configuration
+
+## Image Viewers
+
+* [imv](https://github.com/eXeC64/imv) - a command line image viewer for X11/Wayland
 
 ## Launchers
 
