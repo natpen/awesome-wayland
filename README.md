@@ -44,6 +44,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 ## Display Configuration
 
 * [Kanshi](https://github.com/emersion/kanshi) - Dynamic display configuration
+* [wdisplays](https://github.com/cyclopsian/wdisplays) - GUI display configurator for wlroots compositors
 
 ## Image Viewers
 
