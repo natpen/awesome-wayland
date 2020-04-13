@@ -7,6 +7,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 ## Table of contents
 
   - [Brightness Control](#brightness-control)
+  - [Clipboard Managers](#clipboard-managers)
   - [Compositors](#compositors)
   - [Display Configuration](#display-configuration)
   - [Launchers](#launchers)
@@ -23,6 +24,11 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 ## Brightness Control
 
 No Wayland-specific requirements, so you can use your xorg solution of choice to control screen brightness, like [brightnessctl](https://github.com/Hummer12007/brightnessctl), [brillo](https://gitlab.com/cameronnemo/brillo), [light](https://github.com/haikarainen/light), or just directly manipulate `/sys/class/backlight`.
+
+## Clipboard Managers
+
+* [wl-clipboard](https://github.com/bugaevc/wl-clipboard) - Command-line copy/paste utilities for Wayland
+* [clipman](https://github.com/yory8/clipman) - A simple clipboard manager for Wayland
 
 ## Compositors
 
