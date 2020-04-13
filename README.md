@@ -33,6 +33,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 
 ## Compositors
 
+* [hikari](https://hikari.acmelabs.space/) - A hybrid stacking/tiling wayland compositor
 * [Sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 * [Wayfire](https://github.com/WayfireWM/wayfire) - 3D wayland compositor
 * [Weston](https://gitlab.freedesktop.org/wayland/weston/) - Reference compositor for Wayland
