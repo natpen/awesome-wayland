@@ -51,6 +51,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 ## Image Viewers
 
 * [imv](https://github.com/eXeC64/imv) - a command line image viewer for X11/Wayland
+* [mvi](https://github.com/occivink/mpv-image-viewer) - a command line image viewer utilizing mpv
 
 ## Launchers
 
