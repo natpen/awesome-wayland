@@ -7,6 +7,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 ## Table of contents
 
   - [Brightness Control](#brightness-control)
+  - [Browser Without X Library Dependency](#Browser-without-X-library-dependency)
   - [Clipboard Managers](#clipboard-managers)
   - [Compositors](#compositors)
   - [Display Configuration](#display-configuration)
@@ -29,6 +30,11 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 No Wayland-specific requirements, so you can use your xorg solution of choice to control screen brightness, like [brightnessctl](https://github.com/Hummer12007/brightnessctl), [brillo](https://gitlab.com/cameronnemo/brillo), [light](https://github.com/haikarainen/light), or just directly manipulate `/sys/class/backlight`.
 
+## Browser without X library dependency
+
+* [Surfer](https://github.com/nihilowy/surfer) - Simple keyboard based webkit2gtk browser
+* [wyeb](https://github.com/jun7/wyeb) - A vim-like webkit2gtk browser
+
 ## Clipboard Managers
 
 * [wl-clipboard](https://github.com/bugaevc/wl-clipboard) - Command-line copy/paste utilities for Wayland
@@ -36,9 +42,9 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 
 ## Compositors
 
-* [hikari](https://hikari.acmelabs.space/) - A hybrid stacking/tiling wayland compositor
+* [hikari](https://hikari.acmelabs.space/) - A hybrid stacking/tiling Wayland compositor
 * [Sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
-* [Wayfire](https://github.com/WayfireWM/wayfire) - 3D wayland compositor
+* [Wayfire](https://github.com/WayfireWM/wayfire) - 3D Wayland compositor
 * [Weston](https://gitlab.freedesktop.org/wayland/weston/) - Reference compositor for Wayland
 
 ## Display Configuration
@@ -50,19 +56,19 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 
 ## Image Viewers
 
-* [imv](https://github.com/eXeC64/imv) - a command line image viewer for X11/Wayland
-* [mvi](https://github.com/occivink/mpv-image-viewer) - a command line image viewer utilizing mpv
+* [imv](https://github.com/eXeC64/imv) - A command line image viewer for X11/Wayland
+* [mvi](https://github.com/occivink/mpv-image-viewer) - A command line image viewer utilizing mpv
 
 ## Launchers
 
 * [bemenu](https://github.com/Cloudef/bemenu) - Dynamic menu library and client program inspired by dmenu
 * [LavaLauncher](https://git.sr.ht/~leon_plickat/lavalauncher) - A simple launcher panel for Wayland desktops
-* [Mauncher](https://github.com/mortie/mauncher) - a GTK-based alternative to dmenu for Wayland which supports display scaling
-* [Wofi](https://hg.sr.ht/~scoopta/wofi) - a launcher/menu program for wlroots based wayland compositors such as sway
+* [Mauncher](https://github.com/mortie/mauncher) - A GTK-based alternative to dmenu for Wayland which supports display scaling
+* [Wofi](https://hg.sr.ht/~scoopta/wofi) - A launcher/menu program for wlroots based Wayland compositors such as sway
 
 ## Libraries
 
-* [client toolkit](https://github.com/Smithay/client-toolkit) - a toolkit for writing wayland clients in Rust
+* [client toolkit](https://github.com/Smithay/client-toolkit) - A toolkit for writing Wayland clients in Rust
 * [wlroots](https://github.com/swaywm/wlroots) - Pluggable, composable, unopinionated modules for building a Wayland compositor
 
 ## Notifications
@@ -78,11 +84,11 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [swayidle](https://github.com/swaywm/swayidle) - Idle management daemon for Wayland
 * [swaylock](https://github.com/swaywm/swaylock) - Screen locker for Wayland
 * [swaylock-blur](https://github.com/cjbassi/swaylock-blur) - A small Rust program that runs swaylock and sets the image to a blurred screenshot of the desktop
-* [waylock](https://github.com/ifreund/waylock) - A simple screenlocker for wayland compositors
+* [waylock](https://github.com/ifreund/waylock) - A simple screenlocker for Wayland compositors
 
 ## Screencasting
 
-* [wf-recorder](https://github.com/ammen99/wf-recorder) - a utility program for screen recording of `wlroots`-based compositors (more specifically, those that support `wlr-screencopy-v1` and `xdg-output`)
+* [wf-recorder](https://github.com/ammen99/wf-recorder) - A utility program for screen recording of `wlroots`-based compositors (more specifically, those that support `wlr-screencopy-v1` and `xdg-output`)
 * [wshowkeys](https://git.sr.ht/~sircmpwn/wshowkeys) - Displays keys being pressed on a Wayland session
 
 ## Screenshots
@@ -98,7 +104,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 ## Status Bars
 
 * [i3status-rust](https://github.com/greshake/i3status-rust) - Very resource-friendly and feature-rich replacement for i3status, written in pure Rust
-* [rootbar](https://hg.sr.ht/~scoopta/rootbar) - Root Bar is a bar for wlroots based wayland compositors such as sway
+* [rootbar](https://hg.sr.ht/~scoopta/rootbar) - Root Bar is a bar for wlroots based Wayland compositors such as sway
 * [waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors
 
 ## Terminal Emulators
@@ -116,7 +122,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 ## Wallpaper
 
 * [oguri](https://github.com/vilhalmer/oguri) - A very nice animated wallpaper daemon for Wayland compositors
-* [swaybg](https://github.com/swaywm/swaybg) - a wallpaper utility for Wayland compositors
+* [swaybg](https://github.com/swaywm/swaybg) - A wallpaper utility for Wayland compositors
 
 ## License
 
