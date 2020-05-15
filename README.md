@@ -111,6 +111,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 
 * [Alacritty](https://github.com/alacritty/alacritty) - A cross-platform, GPU-accelerated terminal emulator
 * [Ate](https://github.com/andir/ate) - Awesome terminal emulator
+* [Germinal](https://github.com/Keruspe/Germinal) - Minimalist vte-based terminal emulator
 * [GNOME Terminal](https://wiki.gnome.org/Apps/Terminal) - A terminal emulator for GNOME
 * [Havoc](https://github.com/ii8/havoc) - A minimal terminal emulator for Wayland
 * [Kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature-full, GPU-based terminal emulator
