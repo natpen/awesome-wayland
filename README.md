@@ -63,6 +63,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 ## Launchers
 
 * [bemenu](https://github.com/Cloudef/bemenu) - Dynamic menu library and client program inspired by dmenu
+* [dmenu-wayland](https://github.com/nyyManni/dmenu-wayland) - dmenu-wl is an efficient dynamic menu for wayland (wlroots).
 * [LavaLauncher](https://git.sr.ht/~leon_plickat/lavalauncher) - A simple launcher panel for Wayland desktops
 * [Mauncher](https://github.com/mortie/mauncher) - A GTK-based alternative to dmenu for Wayland which supports display scaling
 * [Wofi](https://hg.sr.ht/~scoopta/wofi) - A launcher/menu program for wlroots based Wayland compositors such as sway
@@ -74,6 +75,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 
 ## Notifications
 
+* [dunst](https://dunst-project.org/) - Dunst is a lightweight replacement for the notification daemons provided by most desktop environments
 * [Mako](https://github.com/emersion/mako) - A lightweight Wayland notification daemon
 
 ## PDF Viewers
@@ -107,6 +109,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [i3status-rust](https://github.com/greshake/i3status-rust) - Very resource-friendly and feature-rich replacement for i3status, written in pure Rust
 * [rootbar](https://hg.sr.ht/~scoopta/rootbar) - Root Bar is a bar for wlroots based Wayland compositors such as sway
 * [waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors
+* [yambar](https://gitlab.com/dnkl/yambar) - Modular status panel for X11 and Wayland, inspired by polybar
 
 ## Terminal Emulators
 
