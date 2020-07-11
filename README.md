@@ -32,8 +32,15 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 
 ## Browser without X library dependency
 
-* [Surfer](https://github.com/nihilowy/surfer) - Simple keyboard based webkit2gtk browser
-* [wyeb](https://github.com/jun7/wyeb) - A vim-like webkit2gtk browser
+* QtWebEngine
+    * [Crusta](https://github.com/Tarptaeya/Crusta) - Fast, modern and minimal desktop web browser with rich features
+    * [Dooble](https://textbrowser.github.io/dooble/) - The weather bug browser. Minimal, cute, and unusually stable
+    * [Falkon](https://www.falkon.org/) - KDE web browser
+    * [Viper Browser](https://github.com/LeFroid/Viper-Browser) - A lightweight browser using QtWebEngine
+    
+* WebKit2GTK
+    * [Surfer](https://github.com/nihilowy/surfer) - Simple keyboard based webkit2gtk browser
+    * [wyeb](https://github.com/jun7/wyeb) - A vim-like webkit2gtk browser
 
 ## Clipboard Managers
 
