@@ -75,7 +75,6 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 
 ## Notifications
 
-* [dunst](https://dunst-project.org/) - Dunst is a lightweight replacement for the notification daemons provided by most desktop environments
 * [Mako](https://github.com/emersion/mako) - A lightweight Wayland notification daemon
 
 ## PDF Viewers
