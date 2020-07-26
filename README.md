@@ -49,6 +49,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 
 ## Compositors
 
+* [Cardboard](https://gitlab.com/cardboardwm/cardboard) - A scrollable tiling Wayland compositor
 * [hikari](https://hikari.acmelabs.space/) - A hybrid stacking/tiling Wayland compositor
 * [river](https://github.com/ifreund/river) - A dynamic tiling Wayland compositor
 * [Sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
