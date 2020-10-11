@@ -55,6 +55,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [Sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 * [Wayfire](https://github.com/WayfireWM/wayfire) - 3D Wayland compositor
 * [Weston](https://gitlab.freedesktop.org/wayland/weston/) - Reference compositor for Wayland
+* [Mutter](https://wiki.gnome.org/Projects/Mutter/) - A window and compositing manager that displays and manages your desktop via OpenGL.
 
 ## Display Configuration
 
