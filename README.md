@@ -22,6 +22,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   - [Session Management](#session-management)
   - [Status Bars](#status-bars)
   - [Terminal Emulators](#terminal-emulators)
+  - [Tools](#tools)
   - [Video Players](#video-players)
   - [Wallpaper](#wallpaper)
   - [License](#license)
@@ -123,6 +124,10 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors
 * [yambar](https://gitlab.com/dnkl/yambar) - Modular status panel for X11 and Wayland, inspired by polybar
 
+## Tools
+
+* [wtype](https://github.com/atx/wtype) - A Wayland tool that allows you to simulate keyboard input like [xdotool](https://github.com/jordansissel/xdotool)
+
 ## Terminal Emulators
 
 * [Alacritty](https://github.com/alacritty/alacritty) - A cross-platform, GPU-accelerated terminal emulator
@@ -142,7 +147,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 ## Wallpaper
 
 * [oguri](https://github.com/vilhalmer/oguri) - A very nice animated wallpaper daemon for Wayland compositors
-* [mpvpaper](https://github.com/GhostNaN/mpvpaper) - A video wallpaper program for wlroots based wayland compositors.
+* [mpvpaper](https://github.com/GhostNaN/mpvpaper) - A video wallpaper program for wlroots based wayland compositors
 * [swaybg](https://github.com/swaywm/swaybg) - A wallpaper utility for Wayland compositors
 * [Wallutils](https://github.com/xyproto/wallutils) - A set of utilities to manage monitors, resolutions, wallpapers and timed wallpapers
 
