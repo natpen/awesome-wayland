@@ -7,7 +7,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 ## Table of contents
 
   - [Brightness Control](#brightness-control)
-  - [Browser Without X Library Dependency](#browser-without-x-library-dependency)
+  - [Browsers Without X Library Dependency](#browsers-without-x-library-dependency)
   - [Clipboard Managers](#clipboard-managers)
   - [Compositors](#compositors)
   - [Display Configuration](#display-configuration)
@@ -31,14 +31,14 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 No Wayland-specific requirements, so you can use your xorg solution of choice to control screen brightness, like [brightnessctl](https://github.com/Hummer12007/brightnessctl), [brillo](https://gitlab.com/cameronnemo/brillo), [light](https://github.com/haikarainen/light), or just directly manipulate `/sys/class/backlight`.
 
-## Browser without X library dependency
+## Browsers without X library dependency
 
 * QtWebEngine
     * [Crusta](https://github.com/Tarptaeya/Crusta) - Fast, modern and minimal desktop web browser with rich features
     * [Dooble](https://textbrowser.github.io/dooble/) - The weather bug browser. Minimal, cute, and unusually stable
     * [Falkon](https://www.falkon.org/) - KDE web browser
     * [Viper Browser](https://github.com/LeFroid/Viper-Browser) - A lightweight browser using QtWebEngine
-    
+
 * WebKit2GTK
     * [Surfer](https://github.com/nihilowy/surfer) - Simple keyboard based webkit2gtk browser
     * [wyeb](https://github.com/jun7/wyeb) - A vim-like webkit2gtk browser
