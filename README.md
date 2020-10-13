@@ -129,6 +129,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [Havoc](https://github.com/ii8/havoc) - A minimal terminal emulator for Wayland
 * [Kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature-full, GPU-based terminal emulator
 * [Termite](https://github.com/thestinger/termite) - A keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support
+* [wterm](https://github.com/majestrate/wterm) - An [st](https://st.suckless.org/) fork for wayland
 
 ## Video Players
 
