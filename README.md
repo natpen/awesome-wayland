@@ -61,6 +61,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 ## Display Configuration
 
 * [Kanshi](https://github.com/emersion/kanshi) - Dynamic display configuration
+* [Wallutils](https://github.com/xyproto/wallutils) - A set of utilities to manage monitors, resolutions, wallpapers and timed wallpapers
 * [wdisplays](https://github.com/cyclopsian/wdisplays) - GUI display configurator for wlroots compositors
 * [wlay](https://github.com/atx/wlay) - Graphical output management for Wayland
 * [wlr-randr](https://github.com/emersion/wlr-randr) - An xrandr clone for wlroots compositors
@@ -142,6 +143,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [oguri](https://github.com/vilhalmer/oguri) - A very nice animated wallpaper daemon for Wayland compositors
 * [mpvpaper](https://github.com/GhostNaN/mpvpaper) - A video wallpaper program for wlroots based wayland compositors.
 * [swaybg](https://github.com/swaywm/swaybg) - A wallpaper utility for Wayland compositors
+* [Wallutils](https://github.com/xyproto/wallutils) - A set of utilities to manage monitors, resolutions, wallpapers and timed wallpapers
 
 ## License
 
