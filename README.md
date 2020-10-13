@@ -127,6 +127,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 ## Tools
 
 * [wtype](https://github.com/atx/wtype) - A Wayland tool that allows you to simulate keyboard input like [xdotool](https://github.com/jordansissel/xdotool)
+* [ydotool](https://github.com/ReimuNotMoe/ydotool) - A generic Linux command-line automation tool for Wayland
 
 ## Terminal Emulators
 
