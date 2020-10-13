@@ -7,7 +7,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 ## Table of contents
 
   - [Brightness Control](#brightness-control)
-  - [Browser Without X Library Dependency](#Browser-without-X-library-dependency)
+  - [Browser Without X Library Dependency](#browser-without-x-library-dependency)
   - [Clipboard Managers](#clipboard-managers)
   - [Compositors](#compositors)
   - [Display Configuration](#display-configuration)
