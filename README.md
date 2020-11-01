@@ -55,6 +55,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [Cagebreak](https://github.com/project-repo/cagebreak) - A Wayland tiling compositor inspired by Ratpoison
 * [Cardboard](https://gitlab.com/cardboardwm/cardboard) - A scrollable tiling Wayland compositor
 * [hikari](https://hikari.acmelabs.space/) - A hybrid stacking/tiling Wayland compositor
+* [labwc](https://github.com/johanmalm/labwc) - A stacking Wayland compositor with look and feel of openbox
 * [river](https://github.com/ifreund/river) - A dynamic tiling Wayland compositor
 * [Sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 * [Waybox](https://github.com/wizbright/waybox) - An openbox clone on Wayland
