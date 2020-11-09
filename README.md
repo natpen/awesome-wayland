@@ -1,4 +1,4 @@
-# Awesome Wayland
+# Awesome wlroots
 
 A curated list of tools and compositors around [wlroots](https://github.com/swaywm/wlroots). 
 
