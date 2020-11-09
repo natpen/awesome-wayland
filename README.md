@@ -62,7 +62,6 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [Sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 * [Waybox](https://github.com/wizbright/waybox) - An openbox clone on Wayland
 * [Wayfire](https://github.com/WayfireWM/wayfire) - 3D Wayland compositor
-* [Weston](https://gitlab.freedesktop.org/wayland/weston/) - Reference compositor for Wayland
 
 ## Display Configuration
 
@@ -89,7 +88,6 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 ## Libraries
 
 * [client toolkit](https://github.com/Smithay/client-toolkit) - A toolkit for writing Wayland clients in Rust
-* [swc](https://github.com/michaelforney/swc) - A library for making a simple Wayland compositor
 * [wlroots](https://github.com/swaywm/wlroots) - Pluggable, composable, unopinionated modules for building a Wayland compositor
 * [wob](https://github.com/francma/wob) - A lightweight overlay volume/backlight/progress/anything bar for Wayland
 
@@ -156,7 +154,6 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [oguri](https://github.com/vilhalmer/oguri) - A very nice animated wallpaper daemon for Wayland compositors
 * [mpvpaper](https://github.com/GhostNaN/mpvpaper) - A video wallpaper program for wlroots based wayland compositors
 * [swaybg](https://github.com/swaywm/swaybg) - A wallpaper utility for Wayland compositors
-* [Wallutils](https://github.com/xyproto/wallutils) - A set of utilities to manage monitors, resolutions, wallpapers and timed wallpapers
 
 ## License
 
