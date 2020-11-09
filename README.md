@@ -1,6 +1,8 @@
 # Awesome Wayland
 
-A curated list of [Wayland](https://gitlab.freedesktop.org/wayland/wayland) code and resources.
+A curated list of tools and compositors around [wlroots](https://github.com/swaywm/wlroots). 
+
+wlroots is a compositor library and defines a large and diverse ecosystem around [wlr-protocols](https://github.com/swaywm/wlr-protocols). 
 
 If you want to contribute, please read [this](CONTRIBUTING.md).
 
