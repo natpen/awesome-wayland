@@ -83,8 +83,8 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [LavaLauncher](https://git.sr.ht/~leon_plickat/lavalauncher) - A simple launcher panel for Wayland desktops
 * [Mauncher](https://github.com/mortie/mauncher) - A GTK-based alternative to dmenu for Wayland which supports display scaling
 * [nwg-launchers](https://github.com/nwg-piotr/nwg-launchers) - A GTK-based application grid launcher, button bar and dmenu for Wayland
-* [sirula](https://github.com/DorianRudolph/sirula) Simple app launcher for Wayland written in Rust
-* [wldash](https://github.com/kennylevinsen/wldash) Wayland dashboard and launcher written in Rust
+* [sirula](https://github.com/DorianRudolph/sirula) - Simple app launcher for Wayland written in Rust
+* [wldash](https://github.com/kennylevinsen/wldash) - Wayland dashboard and launcher written in Rust
 * [Wofi](https://hg.sr.ht/~scoopta/wofi) - A launcher/menu program for wlroots based Wayland compositors such as sway
 
 ## Libraries
