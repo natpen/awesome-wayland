@@ -42,7 +42,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
     * [Viper Browser](https://github.com/LeFroid/Viper-Browser) - A lightweight browser using QtWebEngine
 
 * WebKit2GTK
-    * [Firefox](https://www.mozilla.org/en-US/firefox/new/?redirect_source=firefox-com) - Firefox now supports wayland
+    * [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Firefox now supports wayland (but you may need to check your distro's documentation for instructions on how to enable it)
     * [Surfer](https://github.com/nihilowy/surfer) - Simple keyboard based webkit2gtk browser
     * [wyeb](https://github.com/jun7/wyeb) - A vim-like webkit2gtk browser
 
