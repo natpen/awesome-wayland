@@ -81,6 +81,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 
 * [bemenu](https://github.com/Cloudef/bemenu) - Dynamic menu library and client program inspired by dmenu
 * [dmenu-wayland](https://github.com/nyyManni/dmenu-wayland) - dmenu-wl is an efficient dynamic menu for wayland (wlroots)
+* [fuzzel](https://codeberg.org/dnkl/fuzzel) - Application launcher for wlroots based Wayland compositors, similar to rofi's `drun` mode
 * [LavaLauncher](https://git.sr.ht/~leon_plickat/lavalauncher) - A simple launcher panel for Wayland desktops
 * [Mauncher](https://github.com/mortie/mauncher) - A GTK-based alternative to dmenu for Wayland which supports display scaling
 * [nwg-launchers](https://github.com/nwg-piotr/nwg-launchers) - A GTK-based application grid launcher, button bar and dmenu for Wayland
@@ -98,6 +99,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 
 ## Notifications
 
+* [fnott](https://codeberg.org/dnkl/fnott) - Keyboard driven and lightweight Wayland notification daemon for wlroots-based compositors
 * [Mako](https://github.com/emersion/mako) - A lightweight Wayland notification daemon
 
 ## PDF Viewers
