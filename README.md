@@ -11,9 +11,12 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   - [Clipboard Managers](#clipboard-managers)
   - [Compositors](#compositors)
   - [Display Configuration](#display-configuration)
+  - [Email Clients](#email-clients)
+  - [IM](#im)
   - [Image Viewers](#image-viewers)
   - [Launchers](#launchers)
   - [Libraries](#libraries)
+  - [Music Players](#music-players)
   - [Notifications](#notifications)
   - [PDF Viewers](#pdf-viewers)
   - [Screen Locking](#screen-locking)
@@ -21,7 +24,9 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   - [Screenshots](#screenshots)
   - [Session Management](#session-management)
   - [Status Bars](#status-bars)
+  - [Subtitle Editors](#subtitle-editors)
   - [Terminal Emulators](#terminal-emulators)
+  - [Text Editors](#text-editors)
   - [Tools](#tools)
   - [Video Players](#video-players)
   - [Wallpaper](#wallpaper)
@@ -47,8 +52,8 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 
 ## Clipboard Managers
 
-* [wl-clipboard](https://github.com/bugaevc/wl-clipboard) - Command-line copy/paste utilities for Wayland
 * [clipman](https://github.com/yory8/clipman) - A simple clipboard manager for Wayland
+* [wl-clipboard](https://github.com/bugaevc/wl-clipboard) - Command-line copy/paste utilities for Wayland
 
 ## Compositors
 
@@ -56,33 +61,49 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [Cardboard](https://gitlab.com/cardboardwm/cardboard) - A scrollable tiling Wayland compositor
 * [hikari](https://hikari.acmelabs.space/) - A hybrid stacking/tiling Wayland compositor
 * [japokwm](https://github.com/werererer/japokwm) - A wlroots based dynamic tiling wayland compositor based around creating layouts
+* [KWin](https://invent.kde.org/plasma/kwin) - KDE window manager and compositor
 * [labwc](https://github.com/johanmalm/labwc) - A stacking Wayland compositor with look and feel of openbox
+* [Mutter](https://wiki.gnome.org/Projects/Mutter/) - A window and compositing manager that displays and manages your desktop via OpenGL.
 * [river](https://github.com/ifreund/river) - A dynamic tiling Wayland compositor
 * [Sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 * [Taiwins](https://github.com/taiwins/taiwins) - A modern wayland window manager
 * [Waybox](https://github.com/wizbright/waybox) - An openbox clone on Wayland
 * [Wayfire](https://github.com/WayfireWM/wayfire) - 3D Wayland compositor
 * [Weston](https://gitlab.freedesktop.org/wayland/weston/) - Reference compositor for Wayland
-* [Mutter](https://wiki.gnome.org/Projects/Mutter/) - A window and compositing manager that displays and manages your desktop via OpenGL.
 
 ## Display Configuration
 
+* [Disman](https://gitlab.com/kwinft/disman) - General screen management software for different compositors based on KScreen
 * [Kanshi](https://github.com/emersion/kanshi) - Dynamic display configuration
+* [KScreen](https://invent.kde.org/plasma/kscreen) - KDE's screen management software
 * [Wallutils](https://github.com/xyproto/wallutils) - A set of utilities to manage monitors, resolutions, wallpapers and timed wallpapers
 * [wdisplays](https://github.com/cyclopsian/wdisplays) - GUI display configurator for wlroots compositors
 * [wlay](https://github.com/atx/wlay) - Graphical output management for Wayland
 * [wlr-randr](https://github.com/emersion/wlr-randr) - An xrandr clone for wlroots compositors
 
+## Email Clients
+
+* [KMail](https://invent.kde.org/pim/kmail) - Feature-rich email client that supports many protocols
+
+## IM
+
+* [Neochat](https://invent.kde.org/network/neochat) - A Matrix client made with Kirigami
+* [Ruqola](https://invent.kde.org/network/ruqola) - A Rocket.Chat client made with QtQuick/QML
+
 ## Image Viewers
 
+* [Gwenview](https://invent.kde.org/graphics/gwenview) - Image viewer by KDE
 * [imv](https://github.com/eXeC64/imv) - A command line image viewer for X11/Wayland
+* [Koko](https://invent.kde.org/graphics/koko) - Image viewer for desktop and mobile
 * [mvi](https://github.com/occivink/mpv-image-viewer) - A command line image viewer utilizing mpv
+* [Pix](https://invent.kde.org/maui/pix) - Maui's image viewer for desktop and mobile
 
 ## Launchers
 
 * [bemenu](https://github.com/Cloudef/bemenu) - Dynamic menu library and client program inspired by dmenu
 * [dmenu-wayland](https://github.com/nyyManni/dmenu-wayland) - dmenu-wl is an efficient dynamic menu for wayland (wlroots)
 * [fuzzel](https://codeberg.org/dnkl/fuzzel) - Application launcher for wlroots based Wayland compositors, similar to rofi's `drun` mode
+* [KRunner](https://invent.kde.org/frameworks/krunner) - Application launcher for Plasma
 * [LavaLauncher](https://git.sr.ht/~leon_plickat/lavalauncher) - A simple launcher panel for Wayland desktops
 * [Mauncher](https://github.com/mortie/mauncher) - A GTK-based alternative to dmenu for Wayland which supports display scaling
 * [nwg-launchers](https://github.com/nwg-piotr/nwg-launchers) - A GTK-based application grid launcher, button bar and dmenu for Wayland
@@ -99,6 +120,11 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [wlroots](https://github.com/swaywm/wlroots) - Pluggable, composable, unopinionated modules for building a Wayland compositor
 * [wob](https://github.com/francma/wob) - A lightweight overlay volume/backlight/progress/anything bar for Wayland
 
+## Music Players
+
+* [Elisa](https://invent.kde.org/multimedia/elisa) - A music player that is simple, reliable, and a joy to use
+* [vvave](https://invent.kde.org/maui/vvave) - Maui's music player for desktop and mobile
+
 ## Notifications
 
 * [fnott](https://codeberg.org/dnkl/fnott) - Keyboard driven and lightweight Wayland notification daemon for wlroots-based compositors
@@ -106,6 +132,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 
 ## PDF Viewers
 
+* [Okular](https://invent.kde.org/graphics/okular) - KDE Document Viewer
 * [zathura](https://git.pwmt.org/pwmt/zathura) - A document viewer
 
 ## Screen Locking
@@ -117,6 +144,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 
 ## Screencasting
 
+* [OBS Studio](https://github.com/obsproject/obs-studio) - Software designed for capturing, compositing, encoding, recording, and streaming video content
 * [ssr-wlroots](https://github.com/foxcpp/ssr-wlroots) - A version of SimpleScreenRecorder with support for `wlroots`-based compositors (more specifically, those that support `wlr-screencopy-v1` and `xdg-output`). Doesn't support recording area selection and has issues with multiple screens. 
 * [wf-recorder](https://github.com/ammen99/wf-recorder) - A utility program for screen recording of `wlroots`-based compositors (more specifically, those that support `wlr-screencopy-v1` and `xdg-output`)
 * [wlrobs](https://hg.sr.ht/~scoopta/wlrobs) - An obs-studio plugin that allows you to screen capture on wlroots based wayland compositors
@@ -126,6 +154,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 
 * [Grim](https://github.com/emersion/grim) - Grab images from a Wayland compositor
 * [Slurp](https://github.com/emersion/slurp) - Select a region in a Wayland compositor
+* [Spectacle](https://invent.kde.org/graphics/spectacle) - GUI application for capturing screenshots
 * [Swappy](https://github.com/jtheoof/swappy) - A Wayland-native snapshot editing tool, inspired by Snappy on macOS
 
 ## Session Management
@@ -140,10 +169,9 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors
 * [yambar](https://codeberg.org/dnkl/yambar) - Modular status panel for X11 and Wayland, inspired by polybar
 
-## Tools
+## Subtitle Editors
 
-* [wtype](https://github.com/atx/wtype) - A Wayland tool that allows you to simulate keyboard input like [xdotool](https://github.com/jordansissel/xdotool)
-* [ydotool](https://github.com/ReimuNotMoe/ydotool) - A generic Linux command-line automation tool for Wayland
+* [Subtitle Composer](https://invent.kde.org/multimedia/subtitlecomposer) - Current git builds include an ffmpeg-based video player fully Wayland native
 
 ## Terminal Emulators
 
@@ -154,17 +182,31 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [GNOME Terminal](https://wiki.gnome.org/Apps/Terminal) - A terminal emulator for GNOME
 * [Havoc](https://github.com/ii8/havoc) - A minimal terminal emulator for Wayland
 * [Kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature-full, GPU-based terminal emulator
+* [Konsole](https://invent.kde.org/utilities/konsole) - Terminal emulator by KDE
 * [Termite](https://github.com/thestinger/termite) - A keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support
 * [wterm](https://github.com/majestrate/wterm) - An [st](https://st.suckless.org/) fork for wayland
 
+## Text Editors
+
+* [Kate](https://invent.kde.org/utilities/kate) - Modern text editor built on the KDE Frameworks and Qt
+* [KWrite](https://invent.kde.org/utilities/kate) - Simple notepad-like editor based on Kate
+* [Nota](https://invent.kde.org/maui/nota) - Maui's simple text editor for desktop and mobile
+
+## Tools
+
+* [wtype](https://github.com/atx/wtype) - A Wayland tool that allows you to simulate keyboard input like [xdotool](https://github.com/jordansissel/xdotool)
+* [ydotool](https://github.com/ReimuNotMoe/ydotool) - A generic Linux command-line automation tool for Wayland
+
 ## Video Players
 
+* [Haruna](https://invent.kde.org/multimedia/haruna) - Video player built with Qt/QML and libmpv
 * [mpv](https://github.com/mpv-player/mpv) - Command line video player
 
 ## Wallpaper
 
 * [oguri](https://github.com/vilhalmer/oguri) - A very nice animated wallpaper daemon for Wayland compositors
 * [mpvpaper](https://github.com/GhostNaN/mpvpaper) - A video wallpaper program for wlroots based wayland compositors
+* [plasma-apply-wallpaperimage](https://invent.kde.org/plasma/plasma-workspace) - A terminal utility to change wallpaper on Plasma
 * [swaybg](https://github.com/swaywm/swaybg) - A wallpaper utility for Wayland compositors
 * [Wallutils](https://github.com/xyproto/wallutils) - A set of utilities to manage monitors, resolutions, wallpapers and timed wallpapers
 
