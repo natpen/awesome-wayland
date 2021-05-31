@@ -149,8 +149,8 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [Blue Recorder](https://github.com/xlmnxp/blue-recorder) - Screen recorder for GNOME based on Green Recorder written in Rust
 * [GNOME ScreenCast](https://gitlab.gnome.org/GNOME/mutter) - GNOME's default screen recorder embedded in Mutter
 * [Green Recorder](https://github.com/mhsabbagh/green-recorder) - Screen recorder for GNOME (unmaintained!)
-* [OBS Studio](https://github.com/obsproject/obs-studio) - Compositor-independent screen recorder with support for v4l2loopback
 * [Kooha](https://github.com/SeaDve/Kooha) - Minimalistic screen recorder for GNOME with planned support for other compositors
+* [OBS Studio](https://github.com/obsproject/obs-studio) - Compositor-independent screen recorder with support for v4l2loopback
 * [Peek](https://github.com/phw/peek) - An animated gif recorder for GNOME
 * [RecApp](https://github.com/amikha1lov/RecApp) - Simple screen recorder for GNOME
 * [ssr-wlroots](https://github.com/foxcpp/ssr-wlroots) - A version of SimpleScreenRecorder with support for `wlroots`-based compositors (more specifically, those that support `wlr-screencopy-v1` and `xdg-output`). Doesn't support recording area selection and has issues with multiple screens.
