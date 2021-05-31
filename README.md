@@ -77,6 +77,8 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [Disman](https://gitlab.com/kwinft/disman) - General screen management software for different compositors based on KScreen
 * [Kanshi](https://github.com/emersion/kanshi) - Dynamic display configuration
 * [KScreen](https://invent.kde.org/plasma/kscreen) - KDE's screen management software
+* [kscreen-doctor](https://invent.kde.org/plasma/libkscreen) - An xrandr-like utility for Plasma
+* [swaymsg](https://github.com/swaywm/sway) - General settings utility for Sway that also manages displays
 * [Wallutils](https://github.com/xyproto/wallutils) - A set of utilities to manage monitors, resolutions, wallpapers and timed wallpapers
 * [wdisplays](https://github.com/cyclopsian/wdisplays) - GUI display configurator for wlroots compositors
 * [wlay](https://github.com/atx/wlay) - Graphical output management for Wayland
@@ -145,8 +147,15 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 
 ## Screencasting
 
-* [OBS Studio](https://github.com/obsproject/obs-studio) - Software designed for capturing, compositing, encoding, recording, and streaming video content
-* [ssr-wlroots](https://github.com/foxcpp/ssr-wlroots) - A version of SimpleScreenRecorder with support for `wlroots`-based compositors (more specifically, those that support `wlr-screencopy-v1` and `xdg-output`). Doesn't support recording area selection and has issues with multiple screens. 
+* [Blue Recorder](https://github.com/xlmnxp/blue-recorder) - Screen recorder for GNOME based on Green Recorder written in Rust
+* [GNOME ScreenCast](https://gitlab.gnome.org/GNOME/mutter) - GNOME's default screen recorder embedded in Mutter
+* [Green Recorder](https://github.com/mhsabbagh/green-recorder) - Screen recorder for GNOME (unmaintained!)
+* [OBS Studio](https://github.com/obsproject/obs-studio) - Compositor-independent screen recorder with support for v4l2loopback
+* [Kooha](https://github.com/SeaDve/Kooha) - Minimalistic screen recorder for GNOME with planned support for other compositors
+* [Peek](https://github.com/phw/peek) - An animated gif recorder for GNOME
+* [RecApp](https://github.com/amikha1lov/RecApp) - Simple screen recorder for GNOME
+* [ssr-wlroots](https://github.com/foxcpp/ssr-wlroots) - A version of SimpleScreenRecorder with support for `wlroots`-based compositors (more specifically, those that support `wlr-screencopy-v1` and `xdg-output`). Doesn't support recording area selection and has issues with multiple screens.
+* [wayrec](https://invent.kde.org/bharadwaj-raju/wayrec) - Experimental screen recorder for Wayland using the freedesktop ScreenCast portal
 * [wf-recorder](https://github.com/ammen99/wf-recorder) - A utility program for screen recording of `wlroots`-based compositors (more specifically, those that support `wlr-screencopy-v1` and `xdg-output`)
 * [wlrobs](https://hg.sr.ht/~scoopta/wlrobs) - An obs-studio plugin that allows you to screen capture on wlroots based wayland compositors
 * [wshowkeys](https://git.sr.ht/~sircmpwn/wshowkeys) - Displays keys being pressed on a Wayland session
