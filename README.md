@@ -70,6 +70,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [Waybox](https://github.com/wizbright/waybox) - An openbox clone on Wayland
 * [Wayfire](https://github.com/WayfireWM/wayfire) - 3D Wayland compositor
 * [Weston](https://gitlab.freedesktop.org/wayland/weston/) - Reference compositor for Wayland
+* [dwl](https://github.com/djpohly/dwl) - A rewrite of DWM for Wayland
 
 ## Display Configuration
 
