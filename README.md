@@ -59,6 +59,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 
 * [Cagebreak](https://github.com/project-repo/cagebreak) - A Wayland tiling compositor inspired by Ratpoison
 * [Cardboard](https://gitlab.com/cardboardwm/cardboard) - A scrollable tiling Wayland compositor
+* [dwl](https://github.com/djpohly/dwl) - A rewrite of DWM for Wayland
 * [hikari](https://hikari.acmelabs.space/) - A hybrid stacking/tiling Wayland compositor
 * [japokwm](https://github.com/werererer/japokwm) - A wlroots based dynamic tiling wayland compositor based around creating layouts
 * [KWin](https://invent.kde.org/plasma/kwin) - KDE window manager and compositor
@@ -70,7 +71,6 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [Waybox](https://github.com/wizbright/waybox) - An openbox clone on Wayland
 * [Wayfire](https://github.com/WayfireWM/wayfire) - 3D Wayland compositor
 * [Weston](https://gitlab.freedesktop.org/wayland/weston/) - Reference compositor for Wayland
-* [dwl](https://github.com/djpohly/dwl) - A rewrite of DWM for Wayland
 
 ## Display Configuration
 
