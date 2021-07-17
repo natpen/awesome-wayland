@@ -82,6 +82,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [Wallutils](https://github.com/xyproto/wallutils) - A set of utilities to manage monitors, resolutions, wallpapers and timed wallpapers
 * [wdisplays](https://github.com/cyclopsian/wdisplays) - GUI display configurator for wlroots compositors
 * [wlay](https://github.com/atx/wlay) - Graphical output management for Wayland
+* [wlopm](https://git.sr.ht/~leon_plickat/wlopm) - Wayland output power management tool
 * [wlr-randr](https://github.com/emersion/wlr-randr) - An xrandr clone for wlroots compositors
 
 ## Email Clients
