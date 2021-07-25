@@ -197,6 +197,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [Konsole](https://invent.kde.org/utilities/konsole) - Terminal emulator by KDE
 * [Termite](https://github.com/thestinger/termite) - A keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support
 * [wterm](https://github.com/majestrate/wterm) - An [st](https://st.suckless.org/) fork for wayland
+* [urxvt](http://software.schmorp.de/pkg/rxvt-unicode.html) - rxvt-unicode is another popular X-based terminal emulator
 
 ## Text Editors
 
