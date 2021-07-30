@@ -102,6 +102,10 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [mvi](https://github.com/occivink/mpv-image-viewer) - A command line image viewer utilizing mpv
 * [Pix](https://invent.kde.org/maui/pix) - Maui's image viewer for desktop and mobile
 
+## Key Remapping
+
+* [keyd](https://github.com/rvaiya/keyd) - System-wide daemon to remap keys using kernel input primitives (evdev, uinput)
+
 ## Launchers
 
 * [bemenu](https://github.com/Cloudef/bemenu) - Dynamic menu library and client program inspired by dmenu
