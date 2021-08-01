@@ -14,6 +14,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   - [Email Clients](#email-clients)
   - [IM](#im)
   - [Image Viewers](#image-viewers)
+  - [Key Remappers](#key-remappers)
   - [Launchers](#launchers)
   - [Libraries](#libraries)
   - [Music Players](#music-players)
@@ -102,7 +103,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [mvi](https://github.com/occivink/mpv-image-viewer) - A command line image viewer utilizing mpv
 * [Pix](https://invent.kde.org/maui/pix) - Maui's image viewer for desktop and mobile
 
-## Key Remapping
+## Key Remappers
 
 * [keyd](https://github.com/rvaiya/keyd) - System-wide daemon to remap keys using kernel input primitives (evdev, uinput)
 
