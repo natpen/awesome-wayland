@@ -40,12 +40,16 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [Wlsunset](https://sr.ht/~kennylevinsen/wlsunset/) - Day/night gamma adjustments for Wayland compositors supporting wlr-gamma-control-unstable-v1.
 
 ## Browsers without X library dependency
+* Firefox and forks
+    * [Firefox](https://www.mozilla.org/en-US/firefox/new/) - For using Firefox on wayland just add `MOZ_ENABLE_WAYLAND=1` to your environment variables
+    * [Tor Browser](https://www.torproject.org/download/) - Tor Browser Bundle: anonymous browsing using Firefox and Tor 
 
 * QtWebEngine
     * [Crusta](https://github.com/Tarptaeya/Crusta) - Fast, modern and minimal desktop web browser with rich features
     * [Dooble](https://textbrowser.github.io/dooble/) - The weather bug browser. Minimal, cute, and unusually stable
     * [Falkon](https://www.falkon.org/) - KDE web browser
     * [Viper Browser](https://github.com/LeFroid/Viper-Browser) - A lightweight browser using QtWebEngine
+    * [Qutebrowser](https://www.qutebrowser.org) - a keyboard-focused browser with a minimal GUI
 
 * WebKit2GTK
     * [Surfer](https://github.com/nihilowy/surfer) - Simple keyboard based webkit2gtk browser
@@ -72,6 +76,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [Waybox](https://github.com/wizbright/waybox) - An openbox clone on Wayland
 * [Wayfire](https://github.com/WayfireWM/wayfire) - 3D Wayland compositor
 * [Weston](https://gitlab.freedesktop.org/wayland/weston/) - Reference compositor for Wayland
+* [Qtile](https://github.com/qtile/qtile) - A full-featured, hackable tiling window manager written and configured in Python, [now supports wayland](https://mcol.xyz/2021/08/qtile-a-wayland-compositor.html)
 
 ## Display Configuration
 
@@ -89,6 +94,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 ## Email Clients
 
 * [KMail](https://invent.kde.org/pim/kmail) - Feature-rich email client that supports many protocols
+* [Thunderbird](https://www.thunderbird.net/) - Standalone mail and news reader from mozilla.org
 
 ## IM
 
@@ -102,6 +108,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [Koko](https://invent.kde.org/graphics/koko) - Image viewer for desktop and mobile
 * [mvi](https://github.com/occivink/mpv-image-viewer) - A command line image viewer utilizing mpv
 * [Pix](https://invent.kde.org/maui/pix) - Maui's image viewer for desktop and mobile
+* [vimiv](https://karlch.github.io/vimiv/) - An image viewer with vim-like keybindings
 
 ## Key Remappers
 
@@ -138,6 +145,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 
 * [fnott](https://codeberg.org/dnkl/fnott) - Keyboard driven and lightweight Wayland notification daemon for wlroots-based compositors
 * [Mako](https://github.com/emersion/mako) - A lightweight Wayland notification daemon
+* [dunst](https://github.com/dunst-project/dunst) - A highly configurable and lightweight notification daemon
 
 ## PDF Viewers
 
@@ -200,7 +208,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [Havoc](https://github.com/ii8/havoc) - A minimal terminal emulator for Wayland
 * [Kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature-full, GPU-based terminal emulator
 * [Konsole](https://invent.kde.org/utilities/konsole) - Terminal emulator by KDE
-* [Termite](https://github.com/thestinger/termite) - A keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support
+* [Termite](https://github.com/thestinger/termite) - A keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support (Termite is obsoleted by Alacritty!)
 * [wterm](https://github.com/majestrate/wterm) - An [st](https://st.suckless.org/) fork for wayland
 
 ## Text Editors
