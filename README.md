@@ -132,6 +132,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 ## Libraries
 
 * [client toolkit](https://github.com/Smithay/client-toolkit) - A toolkit for writing Wayland clients in Rust
+* [smithay](https://github.com/Smithay/smithay) - A modular smithy for making Wayland compositors in Rust
 * [swc](https://github.com/michaelforney/swc) - A library for making a simple Wayland compositor
 * [wlroots](https://github.com/swaywm/wlroots) - Pluggable, composable, unopinionated modules for building a Wayland compositor
 * [wob](https://github.com/francma/wob) - A lightweight overlay volume/backlight/progress/anything bar for Wayland
