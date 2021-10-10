@@ -119,6 +119,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [bemenu](https://github.com/Cloudef/bemenu) - Dynamic menu library and client program inspired by dmenu
 * [dmenu-wayland](https://github.com/nyyManni/dmenu-wayland) - dmenu-wl is an efficient dynamic menu for wayland (wlroots)
 * [fuzzel](https://codeberg.org/dnkl/fuzzel) - Application launcher for wlroots based Wayland compositors, similar to rofi's `drun` mode
+* [kickoff](https://github.com/j0ru/kickoff) - Application launcher with a focus on snappyness
 * [KRunner](https://invent.kde.org/frameworks/krunner) - Application launcher for Plasma
 * [LavaLauncher](https://git.sr.ht/~leon_plickat/lavalauncher) - A simple launcher panel for Wayland desktops
 * [Mauncher](https://github.com/mortie/mauncher) - A GTK-based alternative to dmenu for Wayland which supports display scaling
