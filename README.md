@@ -12,6 +12,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   - [Compositors](#compositors)
   - [Display Configuration](#display-configuration)
   - [Email Clients](#email-clients)
+  - [Emulation](#emulation)
   - [IM](#im)
   - [Image Viewers](#image-viewers)
   - [Key Remappers](#key-remappers)
@@ -95,6 +96,10 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 
 * [KMail](https://invent.kde.org/pim/kmail) - Feature-rich email client that supports many protocols
 * [Thunderbird](https://www.thunderbird.net/) - Standalone mail and news reader from mozilla.org
+
+## Emulation
+
+* [Waydroid](https://waydro.id/) - A container-based approach to boot a full Android system on GNU/Linux
 
 ## IM
 
