@@ -82,7 +82,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 ## Display Configuration
 
 * [Disman](https://gitlab.com/kwinft/disman) - General screen management software for different compositors based on KScreen
-* [Kanshi](https://github.com/emersion/kanshi) - Dynamic display configuration
+* [Kanshi](https://git.sr.ht/~emersion/kanshi) - Dynamic display configuration
 * [KScreen](https://invent.kde.org/plasma/kscreen) - KDE's screen management software
 * [kscreen-doctor](https://invent.kde.org/plasma/libkscreen) - An xrandr-like utility for Plasma
 * [swaymsg](https://github.com/swaywm/sway) - General settings utility for Sway that also manages displays
@@ -90,7 +90,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [wdisplays](https://github.com/cyclopsian/wdisplays) - GUI display configurator for wlroots compositors
 * [wlay](https://github.com/atx/wlay) - Graphical output management for Wayland
 * [wlopm](https://git.sr.ht/~leon_plickat/wlopm) - Wayland output power management tool
-* [wlr-randr](https://github.com/emersion/wlr-randr) - An xrandr clone for wlroots compositors
+* [wlr-randr](https://sr.ht/~emersion/wlr-randr/) - An xrandr clone for wlroots compositors
 
 ## Email Clients
 
