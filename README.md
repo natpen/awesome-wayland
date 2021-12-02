@@ -74,6 +74,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [river](https://github.com/ifreund/river) - A dynamic tiling Wayland compositor
 * [Sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 * [Taiwins](https://github.com/taiwins/taiwins) - A modern wayland window manager
+* [Vivarium](https://github.com/inclement/vivarium) - A dynamic tiling Wayland compositor using wlroots, with desktop semantics inspired by xmonad.
 * [Waybox](https://github.com/wizbright/waybox) - An openbox clone on Wayland
 * [Wayfire](https://github.com/WayfireWM/wayfire) - 3D Wayland compositor
 * [Weston](https://gitlab.freedesktop.org/wayland/weston/) - Reference compositor for Wayland
