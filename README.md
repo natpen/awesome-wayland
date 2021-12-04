@@ -70,7 +70,6 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [japokwm](https://github.com/werererer/japokwm) - A wlroots based dynamic tiling wayland compositor based around creating layouts
 * [KWin](https://invent.kde.org/plasma/kwin) - KDE window manager and compositor
 * [labwc](https://github.com/johanmalm/labwc) - A stacking Wayland compositor with look and feel of openbox
-* [Mir](https://github.com/MirServer/mir) - Mir is set of libraries for building Wayland based shells
 * [Mutter](https://wiki.gnome.org/Projects/Mutter/) - A window and compositing manager that displays and manages your desktop via OpenGL.
 * [river](https://github.com/ifreund/river) - A dynamic tiling Wayland compositor
 * [Sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
@@ -139,6 +138,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 ## Libraries
 
 * [client toolkit](https://github.com/Smithay/client-toolkit) - A toolkit for writing Wayland clients in Rust
+* [Mir](https://github.com/MirServer/mir) - Mir is set of libraries for building Wayland based shells
 * [smithay](https://github.com/Smithay/smithay) - A modular smithy for making Wayland compositors in Rust
 * [swc](https://github.com/michaelforney/swc) - A library for making a simple Wayland compositor
 * [wlroots](https://github.com/swaywm/wlroots) - Pluggable, composable, unopinionated modules for building a Wayland compositor
