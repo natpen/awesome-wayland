@@ -70,11 +70,11 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [japokwm](https://github.com/werererer/japokwm) - A wlroots based dynamic tiling wayland compositor based around creating layouts
 * [KWin](https://invent.kde.org/plasma/kwin) - KDE window manager and compositor
 * [labwc](https://github.com/johanmalm/labwc) - A stacking Wayland compositor with look and feel of openbox
-* [Mutter](https://wiki.gnome.org/Projects/Mutter/) - A window and compositing manager that displays and manages your desktop via OpenGL.
+* [Mutter](https://wiki.gnome.org/Projects/Mutter/) - A window and compositing manager that displays and manages your desktop via OpenGL
 * [river](https://github.com/ifreund/river) - A dynamic tiling Wayland compositor
 * [Sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 * [Taiwins](https://github.com/taiwins/taiwins) - A modern wayland window manager
-* [Vivarium](https://github.com/inclement/vivarium) - A dynamic tiling Wayland compositor using wlroots, with desktop semantics inspired by xmonad.
+* [Vivarium](https://github.com/inclement/vivarium) - A dynamic tiling Wayland compositor using wlroots, with desktop semantics inspired by xmonad
 * [Waybox](https://github.com/wizbright/waybox) - An openbox clone on Wayland
 * [Wayfire](https://github.com/WayfireWM/wayfire) - 3D Wayland compositor
 * [Weston](https://gitlab.freedesktop.org/wayland/weston/) - Reference compositor for Wayland
@@ -185,7 +185,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 
 ## Screenshots
 
-* [Flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software (requires [grim](https://github.com/emersion/grim) on wlroots).
+* [Flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software (requires [grim](https://github.com/emersion/grim) on wlroots)
 * [Grim](https://github.com/emersion/grim) - Grab images from a Wayland compositor
 * [Slurp](https://github.com/emersion/slurp) - Select a region in a Wayland compositor
 * [Spectacle](https://invent.kde.org/graphics/spectacle) - GUI application for capturing screenshots
@@ -231,7 +231,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [lswt](https://git.sr.ht/~leon_plickat/lswt) - List Wayland toplevels in both human readable and machine parsable formats
 * [wtype](https://github.com/atx/wtype) - A Wayland tool that allows you to simulate keyboard input like [xdotool](https://github.com/jordansissel/xdotool)
 * [ydotool](https://github.com/ReimuNotMoe/ydotool) - A generic Linux command-line automation tool for Wayland
-* [wev](https://git.sr.ht/~sircmpwn/wev) - A tool for debugging events on a Wayland window, analagous to the X11 tool xev.
+* [wev](https://git.sr.ht/~sircmpwn/wev) - A tool for debugging events on a Wayland window, analagous to the X11 tool xev
 
 ## Video Players
 
