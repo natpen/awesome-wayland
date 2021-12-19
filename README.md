@@ -74,6 +74,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [river](https://github.com/ifreund/river) - A dynamic tiling Wayland compositor
 * [Sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 * [Taiwins](https://github.com/taiwins/taiwins) - A modern wayland window manager
+* [Velox](https://github.com/michaelforney/velox) - Velox is a simple window manager based on swc. It is inspired by dwm and xmonad.
 * [Vivarium](https://github.com/inclement/vivarium) - A dynamic tiling Wayland compositor using wlroots, with desktop semantics inspired by xmonad
 * [Waybox](https://github.com/wizbright/waybox) - An openbox clone on Wayland
 * [Wayfire](https://github.com/WayfireWM/wayfire) - 3D Wayland compositor
@@ -142,6 +143,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [Mir](https://github.com/MirServer/mir) - Mir is set of libraries for building Wayland based shells
 * [smithay](https://github.com/Smithay/smithay) - A modular smithy for making Wayland compositors in Rust
 * [swc](https://github.com/michaelforney/swc) - A library for making a simple Wayland compositor
+* [wld](https://github.com/michaelforney/wld) - A primitive drawing library targeted at Wayland
 * [wlroots](https://github.com/swaywm/wlroots) - Pluggable, composable, unopinionated modules for building a Wayland compositor
 * [wob](https://github.com/francma/wob) - A lightweight overlay volume/backlight/progress/anything bar for Wayland
 
