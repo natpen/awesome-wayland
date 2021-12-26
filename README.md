@@ -97,6 +97,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 
 * [KMail](https://invent.kde.org/pim/kmail) - Feature-rich email client that supports many protocols
 * [Thunderbird](https://www.thunderbird.net/) - Standalone mail and news reader from mozilla.org
+* [ProtonCheck](https://github.com/servusdei2018/protoncheck) - ProtonMail module for waybar/polybar/yabar/i3blocks 
 
 ## Emulation
 
