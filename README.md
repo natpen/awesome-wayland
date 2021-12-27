@@ -155,6 +155,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [fnott](https://codeberg.org/dnkl/fnott) - Keyboard driven and lightweight Wayland notification daemon for wlroots-based compositors
 * [Mako](https://github.com/emersion/mako) - A lightweight Wayland notification daemon
 * [dunst](https://github.com/dunst-project/dunst) - A highly configurable and lightweight notification daemon
+* [swaync](https://github.com/ErikReider/SwayNotificationCenter) - A simple notification daemon with a GTK gui for notifications and the control center
 
 ## PDF Viewers
 
