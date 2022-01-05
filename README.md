@@ -249,6 +249,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [plasma-apply-wallpaperimage](https://invent.kde.org/plasma/plasma-workspace) - A terminal utility to change wallpaper on Plasma
 * [swaybg](https://github.com/swaywm/swaybg) - A wallpaper utility for Wayland compositors
 * [Wallutils](https://github.com/xyproto/wallutils) - A set of utilities to manage monitors, resolutions, wallpapers and timed wallpapers
+* [wbg](https://codeberg.org/dnkl/wbg) - Super simple wallpaper application for Wayland compositors
 
 ## License
 
