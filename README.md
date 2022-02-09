@@ -120,6 +120,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 ## Key Remappers
 
 * [keyd](https://github.com/rvaiya/keyd) - System-wide daemon to remap keys using kernel input primitives (evdev, uinput)
+* [swhkd](https://github.com/waycrate/swhkd) - A display protocol-independent hotkey daemon made in Rust.
 
 ## Launchers
 
