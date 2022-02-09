@@ -16,6 +16,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   - [IM](#im)
   - [Image Viewers](#image-viewers)
   - [Key Remappers](#key-remappers)
+  - [Hotkey Daemons](#hotkey-daemons)
   - [Launchers](#launchers)
   - [Libraries](#libraries)
   - [Music Players](#music-players)
@@ -120,7 +121,10 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 ## Key Remappers
 
 * [keyd](https://github.com/rvaiya/keyd) - System-wide daemon to remap keys using kernel input primitives (evdev, uinput)
-* [swhkd](https://github.com/waycrate/swhkd) - A display protocol-independent hotkey daemon made in Rust.
+
+## Hotkey Daemons
+
+* [swhkd](https://waycrate.github.io/swhkd/) - A display protocol-independent hotkey daemon.
 
 ## Launchers
 
