@@ -15,8 +15,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   - [Emulation](#emulation)
   - [IM](#im)
   - [Image Viewers](#image-viewers)
-  - [Key Remappers](#key-remappers)
-  - [Hotkey Daemons](#hotkey-daemons)
+  - [Key Binding Management](#key-binding-management)
   - [Launchers](#launchers)
   - [Libraries](#libraries)
   - [Music Players](#music-players)
@@ -118,12 +117,9 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [Pix](https://invent.kde.org/maui/pix) - Maui's image viewer for desktop and mobile
 * [vimiv](https://karlch.github.io/vimiv/) - An image viewer with vim-like keybindings
 
-## Key Remappers
+## Key Binding Management
 
 * [keyd](https://github.com/rvaiya/keyd) - System-wide daemon to remap keys using kernel input primitives (evdev, uinput)
-
-## Hotkey Daemons
-
 * [swhkd](https://waycrate.github.io/swhkd/) - A display protocol-independent hotkey daemon.
 
 ## Launchers
