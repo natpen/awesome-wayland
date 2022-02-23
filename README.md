@@ -20,6 +20,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   - [Libraries](#libraries)
   - [Music Players](#music-players)
   - [Notifications](#notifications)
+  - [On-screen Keyboards](#on-screen-keyboards)
   - [PDF Viewers](#pdf-viewers)
   - [Screen Locking](#screen-locking)
   - [Screencasting](#screencasting)
@@ -124,6 +125,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 
 ## Launchers
 
+* [albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher 
 * [bemenu](https://github.com/Cloudef/bemenu) - Dynamic menu library and client program inspired by dmenu
 * [dmenu-wayland](https://github.com/nyyManni/dmenu-wayland) - dmenu-wl is an efficient dynamic menu for wayland (wlroots)
 * [fuzzel](https://codeberg.org/dnkl/fuzzel) - Application launcher for wlroots based Wayland compositors, similar to rofi's `drun` mode
@@ -159,6 +161,10 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [Mako](https://github.com/emersion/mako) - A lightweight Wayland notification daemon
 * [dunst](https://github.com/dunst-project/dunst) - A highly configurable and lightweight notification daemon
 * [swaync](https://github.com/ErikReider/SwayNotificationCenter) - A simple notification daemon with a GTK gui for notifications and the control center
+
+## On-screen Keyboards
+
+* [wf-osk](https://github.com/WayfireWM/wf-osk) - A very, very basic on-screen keyboard using gtkmm, virtual-keyboard-v1 and layer-shell protocols 
 
 ## PDF Viewers
 
