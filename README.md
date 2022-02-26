@@ -90,6 +90,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [kscreen-doctor](https://invent.kde.org/plasma/libkscreen) - An xrandr-like utility for Plasma
 * [swaymsg](https://github.com/swaywm/sway) - General settings utility for Sway that also manages displays
 * [Wallutils](https://github.com/xyproto/wallutils) - A set of utilities to manage monitors, resolutions, wallpapers and timed wallpapers
+* [wayout](https://github.com/waycrate/wayout) - A Simple tool to set output modes for wlroots compositors implementing zwlr_output_power_management_v1.
 * [wdisplays](https://github.com/artizirk/wdisplays) - GUI display configurator for wlroots compositors
 * [wlay](https://github.com/atx/wlay) - Graphical output management for Wayland
 * [wlopm](https://git.sr.ht/~leon_plickat/wlopm) - Wayland output power management tool
