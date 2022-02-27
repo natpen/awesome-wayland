@@ -39,7 +39,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 No Wayland-specific requirements, so you can use your xorg solution of choice to control screen brightness, like [brightnessctl](https://github.com/Hummer12007/brightnessctl), [brillo](https://gitlab.com/cameronnemo/brillo), [light](https://github.com/haikarainen/light), or just directly manipulate `/sys/class/backlight`.
 
-* [Wlsunset](https://sr.ht/~kennylevinsen/wlsunset/) - Day/night gamma adjustments for Wayland compositors supporting wlr-gamma-control-unstable-v1.
+* [Wlsunset](https://sr.ht/~kennylevinsen/wlsunset/) - Day/night gamma adjustments for Wayland compositors supporting wlr-gamma-control-unstable-v1
 
 ## Browsers without X library dependency
 * Firefox and forks
@@ -75,7 +75,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [river](https://github.com/ifreund/river) - A dynamic tiling Wayland compositor
 * [Sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 * [Taiwins](https://github.com/taiwins/taiwins) - A modern wayland window manager
-* [Velox](https://github.com/michaelforney/velox) - Velox is a simple window manager based on swc. It is inspired by dwm and xmonad.
+* [Velox](https://github.com/michaelforney/velox) - Velox is a simple window manager based on swc, inspired by dwm and xmonad
 * [Vivarium](https://github.com/inclement/vivarium) - A dynamic tiling Wayland compositor using wlroots, with desktop semantics inspired by xmonad
 * [Waybox](https://github.com/wizbright/waybox) - An openbox clone on Wayland
 * [Wayfire](https://github.com/WayfireWM/wayfire) - 3D Wayland compositor
@@ -122,7 +122,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 ## Key Binding Management
 
 * [keyd](https://github.com/rvaiya/keyd) - System-wide daemon to remap keys using kernel input primitives (evdev, uinput)
-* [swhkd](https://waycrate.github.io/swhkd/) - A display protocol-independent hotkey daemon.
+* [swhkd](https://waycrate.github.io/swhkd/) - A display protocol-independent hotkey daemon
 
 ## Launchers
 
@@ -188,7 +188,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [OBS Studio](https://github.com/obsproject/obs-studio) - Compositor-independent screen recorder with support for v4l2loopback
 * [Peek](https://github.com/phw/peek) - An animated gif recorder for GNOME
 * [RecApp](https://github.com/amikha1lov/RecApp) - Simple screen recorder for GNOME
-* [ssr-wlroots](https://github.com/foxcpp/ssr-wlroots) - A version of SimpleScreenRecorder with support for `wlroots`-based compositors (more specifically, those that support `wlr-screencopy-v1` and `xdg-output`). Doesn't support recording area selection and has issues with multiple screens.
+* [ssr-wlroots](https://github.com/foxcpp/ssr-wlroots) - A version of SimpleScreenRecorder with support for `wlroots`-based compositors (more specifically, those that support `wlr-screencopy-v1` and `xdg-output`) - doesn't support recording area selection and has issues with multiple screens
 * [wayrec](https://invent.kde.org/bharadwaj-raju/wayrec) - Experimental screen recorder for Wayland using the freedesktop ScreenCast portal
 * [wf-recorder](https://github.com/ammen99/wf-recorder) - A utility program for screen recording of `wlroots`-based compositors (more specifically, those that support `wlr-screencopy-v1` and `xdg-output`)
 * [wlrobs](https://hg.sr.ht/~scoopta/wlrobs) - An obs-studio plugin that allows you to screen capture on wlroots based wayland compositors
