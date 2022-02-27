@@ -256,6 +256,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [mpvpaper](https://github.com/GhostNaN/mpvpaper) - A video wallpaper program for wlroots based wayland compositors
 * [plasma-apply-wallpaperimage](https://invent.kde.org/plasma/plasma-workspace) - A terminal utility to change wallpaper on Plasma
 * [swaybg](https://github.com/swaywm/swaybg) - A wallpaper utility for Wayland compositors
+* [swww](https://github.com/Horus645/swww) - A Solution to your Wayland Wallpaper Woes
 * [Wallutils](https://github.com/xyproto/wallutils) - A set of utilities to manage monitors, resolutions, wallpapers and timed wallpapers
 * [wbg](https://codeberg.org/dnkl/wbg) - Super simple wallpaper application for Wayland compositors
 
