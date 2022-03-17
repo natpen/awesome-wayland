@@ -69,6 +69,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [dwl](https://github.com/djpohly/dwl) - A rewrite of DWM for Wayland
 * [hikari](https://hikari.acmelabs.space/) - A hybrid stacking/tiling Wayland compositor
 * [japokwm](https://github.com/werererer/japokwm) - A wlroots based dynamic tiling wayland compositor based around creating layouts
+* [Kiwmi](https://github.com/buffet/kiwmi) - A Wayland compositor fully programmable with Lua
 * [KWin](https://invent.kde.org/plasma/kwin) - KDE window manager and compositor
 * [labwc](https://github.com/labwc/labwc) - A stacking Wayland compositor with look and feel of openbox
 * [Mutter](https://wiki.gnome.org/Projects/Mutter/) - A window and compositing manager that displays and manages your desktop via OpenGL
