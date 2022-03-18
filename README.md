@@ -60,6 +60,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 ## Clipboard Managers
 
 * [clipman](https://github.com/yory8/clipman) - A simple clipboard manager for Wayland
+* [wayclip](https://github.com/noocsharp/wayclip) -  Wayland clipboard utility 
 * [wl-clipboard](https://github.com/bugaevc/wl-clipboard) - Command-line copy/paste utilities for Wayland
 
 ## Compositors
