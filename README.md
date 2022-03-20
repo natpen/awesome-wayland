@@ -70,13 +70,14 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [dwl](https://github.com/djpohly/dwl) - A rewrite of DWM for Wayland
 * [hikari](https://hikari.acmelabs.space/) - A hybrid stacking/tiling Wayland compositor
 * [japokwm](https://github.com/werererer/japokwm) - A wlroots based dynamic tiling wayland compositor based around creating layouts
-* [Kiwmi](https://github.com/buffet/kiwmi) - A Wayland compositor fully programmable with Lua
+* [Kiwmi](https://github.com/buffet/kiwmi) - A fully programmable Wayland compositor
 * [KWin](https://invent.kde.org/plasma/kwin) - KDE window manager and compositor
 * [labwc](https://github.com/labwc/labwc) - A stacking Wayland compositor with look and feel of openbox
 * [Mutter](https://wiki.gnome.org/Projects/Mutter/) - A window and compositing manager that displays and manages your desktop via OpenGL
 * [newm](https://github.com/jbuchermn/newm) - A Wayland compositor written with laptops and touchpads in mind
 * [river](https://github.com/ifreund/river) - A dynamic tiling Wayland compositor
 * [Sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
+* [SWC](https://github.com/michaelforney/swc) - Small Wayland compositor implemented as a library with easy to follow codebase
 * [Taiwins](https://github.com/taiwins/taiwins) - A modern wayland window manager
 * [Velox](https://github.com/michaelforney/velox) - Velox is a simple window manager based on swc, inspired by dwm and xmonad
 * [Vivarium](https://github.com/inclement/vivarium) - A dynamic tiling Wayland compositor using wlroots, with desktop semantics inspired by xmonad
