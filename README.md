@@ -202,6 +202,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 
 * [Flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software (requires [grim](https://github.com/emersion/grim) on wlroots)
 * [Grim](https://github.com/emersion/grim) - Grab images from a Wayland compositor
+* [ksnip](https://github.com/ksnip/ksnip) - ksnip the cross-platform screenshot and annotation tool 
 * [Slurp](https://github.com/emersion/slurp) - Select a region in a Wayland compositor
 * [Spectacle](https://invent.kde.org/graphics/spectacle) - GUI application for capturing screenshots
 * [Swappy](https://github.com/jtheoof/swappy) - A Wayland-native snapshot editing tool, inspired by Snappy on macOS
