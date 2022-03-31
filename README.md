@@ -248,9 +248,10 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 ## Tools
 
 * [lswt](https://git.sr.ht/~leon_plickat/lswt) - List Wayland toplevels in both human readable and machine parsable formats
+* [waylevel](https://git.sr.ht/~shinyzenith/waylevel) - A simple debugging tool which lists compositor specific information.
+* [wev](https://git.sr.ht/~sircmpwn/wev) - A tool for debugging events on a Wayland window, analogous to the X11 tool xev
 * [wtype](https://github.com/atx/wtype) - A Wayland tool that allows you to simulate keyboard input like [xdotool](https://github.com/jordansissel/xdotool)
 * [ydotool](https://github.com/ReimuNotMoe/ydotool) - A generic Linux command-line automation tool for Wayland
-* [wev](https://git.sr.ht/~sircmpwn/wev) - A tool for debugging events on a Wayland window, analagous to the X11 tool xev
 
 ## Video Players
 
