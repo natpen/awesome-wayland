@@ -45,6 +45,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 ## Browsers without X library dependency
 * Firefox and forks
     * [Firefox](https://www.mozilla.org/en-US/firefox/new/) - For using Firefox on wayland just add `MOZ_ENABLE_WAYLAND=1` to your environment variables
+    * [Librewolf](https://librewolf.net/) - An independent fork of Firefox, with the primary goals of privacy, security and user freedom
     * [Tor Browser](https://www.torproject.org/download/) - Tor Browser Bundle: anonymous browsing using Firefox and Tor 
 
 * QtWebEngine
