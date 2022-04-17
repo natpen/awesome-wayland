@@ -235,7 +235,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [Kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature-full, GPU-based terminal emulator
 * [Konsole](https://invent.kde.org/utilities/konsole) - Terminal emulator by KDE
 * [Termite](https://github.com/thestinger/termite) - A keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support (Termite is obsoleted by Alacritty!)
-* [https://wezfurlong.org/wezterm/index.html](wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer
+* [wezterm](https://wezfurlong.org/wezterm/) - A GPU-accelerated cross-platform terminal emulator and multiplexer
 * [wterm](https://github.com/majestrate/wterm) - An [st](https://st.suckless.org/) fork for wayland
 
 ## Text Editors
