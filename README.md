@@ -162,6 +162,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 
 ## Notifications
 
+* [avizo](https://github.com/misterdanb/avizo) - Simple notification daemon, mainly intended to be used for multimedia keys
 * [fnott](https://codeberg.org/dnkl/fnott) - Keyboard driven and lightweight Wayland notification daemon for wlroots-based compositors
 * [Mako](https://github.com/emersion/mako) - A lightweight Wayland notification daemon
 * [dunst](https://github.com/dunst-project/dunst) - A highly configurable and lightweight notification daemon
