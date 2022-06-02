@@ -153,7 +153,6 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [swc](https://github.com/michaelforney/swc) - A library for making a simple Wayland compositor
 * [wld](https://github.com/michaelforney/wld) - A primitive drawing library targeted at Wayland
 * [wlroots](https://github.com/swaywm/wlroots) - Pluggable, composable, unopinionated modules for building a Wayland compositor
-* [wob](https://github.com/francma/wob) - A lightweight overlay volume/backlight/progress/anything bar for Wayland
 
 ## Music Players
 
@@ -166,6 +165,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [Mako](https://github.com/emersion/mako) - A lightweight Wayland notification daemon
 * [dunst](https://github.com/dunst-project/dunst) - A highly configurable and lightweight notification daemon
 * [swaync](https://github.com/ErikReider/SwayNotificationCenter) - A simple notification daemon with a GTK gui for notifications and the control center
+* [wob](https://github.com/francma/wob) - A lightweight overlay volume/backlight/progress/anything bar for Wayland
 
 ## On-screen Keyboards
 
