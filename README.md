@@ -241,6 +241,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [Termite](https://github.com/thestinger/termite) - A keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support (Termite is obsoleted by Alacritty!)
 * [wezterm](https://wezfurlong.org/wezterm/) - A GPU-accelerated cross-platform terminal emulator and multiplexer
 * [wterm](https://github.com/majestrate/wterm) - An [st](https://st.suckless.org/) fork for wayland
+* [Xfce Terminal](https://docs.xfce.org/apps/terminal/start) - A graphically-configurable terminal for Xfce
 
 ## Text Editors
 
