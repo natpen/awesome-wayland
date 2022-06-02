@@ -179,6 +179,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 
 ## Screen Locking
 
+* [gtklock](https://github.com/jovanlanik/gtklock) - GTK-based lockscreen for Wayland
 * [swayidle](https://github.com/swaywm/swayidle) - Idle management daemon for Wayland
 * [swaylock](https://github.com/swaywm/swaylock) - Screen locker for Wayland
 * [swaylock-effects](https://github.com/mortie/swaylock-effects) - A fork of swaylock with effects such as a blurred screenshot as background or a clock on the lockscreen
