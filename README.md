@@ -72,6 +72,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [Cardboard](https://gitlab.com/cardboardwm/cardboard) - A scrollable tiling Wayland compositor
 * [dwl](https://github.com/djpohly/dwl) - A rewrite of DWM for Wayland
 * [hikari](https://hikari.acmelabs.space/) - A hybrid stacking/tiling Wayland compositor
+* [Hyprland](https://github.com/vaxerski/Hyprland/) - Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 * [japokwm](https://github.com/werererer/japokwm) - A wlroots based dynamic tiling wayland compositor based around creating layouts
 * [Kiwmi](https://github.com/buffet/kiwmi) - A fully programmable Wayland compositor
 * [KWin](https://invent.kde.org/plasma/kwin) - KDE window manager and compositor
