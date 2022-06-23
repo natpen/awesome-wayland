@@ -202,6 +202,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [wf-recorder](https://github.com/ammen99/wf-recorder) - A utility program for screen recording of `wlroots`-based compositors (more specifically, those that support `wlr-screencopy-v1` and `xdg-output`)
 * [wlrobs](https://hg.sr.ht/~scoopta/wlrobs) - An obs-studio plugin that allows you to screen capture on wlroots based wayland compositors
 * [wshowkeys](https://git.sr.ht/~sircmpwn/wshowkeys) - Displays keys being pressed on a Wayland session
+* [Weye](https://github.com/Yakkhini/Weye) - A lightweight screenshot tool for sway users, writen in Rust. This tool use grimshot commands to screenshot
 
 ## Screenshots
 
