@@ -128,7 +128,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 ## Key Binding Management
 
 * [keyd](https://github.com/rvaiya/keyd) - System-wide daemon to remap keys using kernel input primitives (evdev, uinput)
-* [swhkd](https://waycrate.github.io/swhkd/) - A display protocol-independent hotkey daemon
+* [swhkd](https://github.com/waycrate/swhkd/) - A display protocol-independent hotkey daemon
 
 ## Launchers
 
