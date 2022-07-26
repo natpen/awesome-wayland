@@ -81,6 +81,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [newm](https://github.com/jbuchermn/newm) - A Wayland compositor written with laptops and touchpads in mind
 * [river](https://github.com/ifreund/river) - A dynamic tiling Wayland compositor
 * [Sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
+* [tinywl+](https://github.com/keshto/tinywl_plus) - A stacking wayland compositor based on tinywl. Great starting place for compositor development.
 * [Velox](https://github.com/michaelforney/velox) - Velox is a simple window manager based on swc, inspired by dwm and xmonad
 * [Vivarium](https://github.com/inclement/vivarium) - A dynamic tiling Wayland compositor using wlroots, with desktop semantics inspired by xmonad
 * [Waybox](https://github.com/wizbright/waybox) - An openbox clone on Wayland
