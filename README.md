@@ -124,6 +124,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [Koko](https://invent.kde.org/graphics/koko) - Image viewer for desktop and mobile
 * [mvi](https://github.com/occivink/mpv-image-viewer) - A command line image viewer utilizing mpv
 * [Pix](https://invent.kde.org/maui/pix) - Maui's image viewer for desktop and mobile
+* [Swayimg](https://github.com/artemsen/swayimg) -  Image viewer for Sway/Wayland
 * [vimiv](https://karlch.github.io/vimiv/) - An image viewer with vim-like keybindings
 
 ## Key Binding Management
