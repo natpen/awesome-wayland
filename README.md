@@ -148,6 +148,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [Wofi](https://hg.sr.ht/~scoopta/wofi) - A launcher/menu program for wlroots based Wayland compositors such as sway
 * [yofi](https://github.com/l4l/yofi) - A minimalistic menu for wayland
 * [rofi](https://github.com/lbonn/rofi) - A fork of rofi with Wayland support
+* [tofi](https://github.com/philj56/tofi) - Tiny dynamic menu for Wayland
 
 ## Libraries
 
