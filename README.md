@@ -220,6 +220,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 
 ## Session Management
 
+* [wcp](https://github.com/milgra/wcp) - Script-driven control panel/system menu for wayland-based window managers.
 * [wlogout](https://github.com/ArtsyMacaw/wlogout) - A Wayland-based logout menu
 
 ## Status Bars
