@@ -6,6 +6,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 ## Table of contents
 
+  - [Break Notifiers](#break-notifiers)
   - [Brightness Control](#brightness-control)
   - [Browsers Without X Library Dependency](#browsers-without-x-library-dependency)
   - [Clipboard Managers](#clipboard-managers)
@@ -34,6 +35,10 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   - [Video Players](#video-players)
   - [Wallpaper](#wallpaper)
   - [License](#license)
+
+## Break Notifiers
+
+* [Ianny](https://github.com/zer0-x/ianny) - Periodically informes user to take breaks by keeping track of usage patterns
 
 ## Brightness Control
 
