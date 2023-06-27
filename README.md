@@ -42,7 +42,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 ## Brightness Control
 
-No Wayland-specific requirements, so you can use your xorg solution of choice to control screen brightness, like [brightnessctl](https://github.com/Hummer12007/brightnessctl), [brillo](https://gitlab.com/cameronnemo/brillo), [light](https://github.com/haikarainen/light), [Clight](https://github.com/FedeDP/Clight), or just directly manipulate `/sys/class/backlight`.
+No Wayland-specific requirements, so you can use your xorg solution of choice to control screen brightness, like [brightnessctl](https://github.com/Hummer12007/brightnessctl), [brillo](https://gitlab.com/cameronnemo/brillo), [light](https://github.com/haikarainen/light), or just directly manipulate `/sys/class/backlight`.
 
 * [Gammastep](https://gitlab.com/chinstrap/gammastep) - Day/night gamma modifier that adjusts the color temperature of your screen.
 * [Wlsunset](https://sr.ht/~kennylevinsen/wlsunset/) - Day/night gamma adjustments for Wayland compositors supporting wlr-gamma-control-unstable-v1
