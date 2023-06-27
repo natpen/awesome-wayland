@@ -198,7 +198,6 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 
 ## Screencasting
 
-* [Blue Recorder](https://github.com/xlmnxp/blue-recorder) - Screen recorder for GNOME based on Green Recorder written in Rust
 * [GNOME ScreenCast](https://gitlab.gnome.org/GNOME/mutter) - GNOME's default screen recorder embedded in Mutter
 * [Green Recorder](https://github.com/mhsabbagh/green-recorder) - Screen recorder for GNOME (unmaintained!)
 * [Kooha](https://github.com/SeaDve/Kooha) - Minimalistic screen recorder for GNOME and Plasma using the xdg-desktop-portal ScreenCast protocol
