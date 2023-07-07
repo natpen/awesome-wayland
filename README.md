@@ -235,6 +235,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [sfwbar](https://github.com/LBCrion/sfwbar) - Sway Floating Window Bar is a taskbar for Sway, focused on a stacking layout workflow
 * [waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors
 * [yambar](https://codeberg.org/dnkl/yambar) - Modular status panel for X11 and Wayland, inspired by polybar
+* [eww](https://github.com/elkowar/eww) - Standalone widget system made in Rust that allows you to implement your own, custom widgets in any window manager.
 
 ## Subtitle Editors
 
