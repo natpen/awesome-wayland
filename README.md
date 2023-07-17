@@ -23,6 +23,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   - [Notifications](#notifications)
   - [On-screen Keyboards](#on-screen-keyboards)
   - [PDF Viewers](#pdf-viewers)
+  - [Process Managers](#process-managers)
   - [Screen Locking](#screen-locking)
   - [Screencasting](#screencasting)
   - [Screenshots](#screenshots)
@@ -52,7 +53,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * Firefox and forks
     * [Firefox](https://www.mozilla.org/en-US/firefox/new/) - For using Firefox on wayland just add `MOZ_ENABLE_WAYLAND=1` to your environment variables
     * [Librewolf](https://librewolf.net/) - An independent fork of Firefox, with the primary goals of privacy, security and user freedom
-    * [Tor Browser](https://www.torproject.org/download/) - Tor Browser Bundle: anonymous browsing using Firefox and Tor 
+    * [Tor Browser](https://www.torproject.org/download/) - Tor Browser Bundle: anonymous browsing using Firefox and Tor
 
 * QtWebEngine
     * [Crusta](https://github.com/Tarptaeya/Crusta) - Fast, modern and minimal desktop web browser with rich features
@@ -69,7 +70,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 
 * [clipman](https://github.com/yory8/clipman) - A simple clipboard manager for Wayland
 * [copyq](https://hluk.github.io/CopyQ/) - CopyQ is an advanced clipboard manager with editing and scripting features.
-* [wayclip](https://github.com/noocsharp/wayclip) -  Wayland clipboard utility 
+* [wayclip](https://github.com/noocsharp/wayclip) -  Wayland clipboard utility
 * [wl-clipboard](https://github.com/bugaevc/wl-clipboard) - Command-line copy/paste utilities for Wayland
 
 ## Compositors
@@ -129,6 +130,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [Gwenview](https://invent.kde.org/graphics/gwenview) - Image viewer by KDE
 * [imv](https://github.com/eXeC64/imv) - A command line image viewer for X11/Wayland
 * [Koko](https://invent.kde.org/graphics/koko) - Image viewer for desktop and mobile
+* [LXImage-Qt](https://github.com/lxqt/lximage-qt) - Simple and fast image viewer in Qt
 * [mvi](https://github.com/occivink/mpv-image-viewer) - A command line image viewer utilizing mpv
 * [Pix](https://invent.kde.org/maui/pix) - Maui's image viewer for desktop and mobile
 * [Swayimg](https://github.com/artemsen/swayimg) -  Image viewer for Sway/Wayland
@@ -141,7 +143,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 
 ## Launchers
 
-* [albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher 
+* [albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 * [bemenu](https://github.com/Cloudef/bemenu) - Dynamic menu library and client program inspired by dmenu
 * [dmenu-wayland](https://github.com/nyyManni/dmenu-wayland) - dmenu-wl is an efficient dynamic menu for wayland (wlroots)
 * [fuzzel](https://codeberg.org/dnkl/fuzzel) - Application launcher for wlroots based Wayland compositors, similar to rofi's `drun` mode
@@ -182,12 +184,16 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 
 ## On-screen Keyboards
 
-* [wf-osk](https://github.com/WayfireWM/wf-osk) - A very, very basic on-screen keyboard using gtkmm, virtual-keyboard-v1 and layer-shell protocols 
+* [wf-osk](https://github.com/WayfireWM/wf-osk) - A very, very basic on-screen keyboard using gtkmm, virtual-keyboard-v1 and layer-shell protocols
 
 ## PDF Viewers
 
 * [Okular](https://invent.kde.org/graphics/okular) - KDE Document Viewer
 * [zathura](https://git.pwmt.org/pwmt/zathura) - A document viewer
+
+## Process Managers
+
+* [Qps](https://github.com/lxqt/qps/) - Qt Process Viewer and Manager
 
 ## Screen Locking
 
@@ -217,7 +223,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 
 * [Flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software (requires [grim](https://github.com/emersion/grim) on wlroots)
 * [Grim](https://github.com/emersion/grim) - Grab images from a Wayland compositor
-* [ksnip](https://github.com/ksnip/ksnip) - ksnip the cross-platform screenshot and annotation tool 
+* [ksnip](https://github.com/ksnip/ksnip) - ksnip the cross-platform screenshot and annotation tool
 * [Shotman](https://git.sr.ht/~whynothugo/shotman) - Uncompromising screenshot GUI for Wayland compositors
 * [Slurp](https://github.com/emersion/slurp) - Select a region in a Wayland compositor
 * [Spectacle](https://invent.kde.org/graphics/spectacle) - GUI application for capturing screenshots
@@ -259,6 +265,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 
 ## Text Editors
 
+* [FeatherPad](https://github.com/tsujan/FeatherPad) -  Lightweight and feature rich Qt plain-text editor
 * [Kate](https://invent.kde.org/utilities/kate) - Modern text editor built on the KDE Frameworks and Qt
 * [KWrite](https://invent.kde.org/utilities/kate) - Simple notepad-like editor based on Kate
 * [Nota](https://invent.kde.org/maui/nota) - Maui's simple text editor for desktop and mobile
