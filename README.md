@@ -222,6 +222,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [Slurp](https://github.com/emersion/slurp) - Select a region in a Wayland compositor
 * [Spectacle](https://invent.kde.org/graphics/spectacle) - GUI application for capturing screenshots
 * [Swappy](https://github.com/jtheoof/swappy) - A Wayland-native snapshot editing tool, inspired by Snappy on macOS
+* [Watershot](https://github.com/Kirottu/watershot) - A simple wayland native screenshot tool inspired by Flameshot
 * [Wayshot](https://git.sr.ht/~shinyzenith/wayshot) - A screenshot tool for wlroots compositors implementing zwlr_screencopy_v1.
 * [Weye](https://github.com/Yakkhini/Weye) - A lightweight screenshot tool for sway users, written in Rust. This tool uses grimshot commands to screenshot
 
