@@ -292,9 +292,9 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [swaybg](https://github.com/swaywm/swaybg) - A wallpaper utility for Wayland compositors
 * [swww](https://github.com/Horus645/swww) - A Solution to your Wayland Wallpaper Woes
 * [Wallutils](https://github.com/xyproto/wallutils) - A set of utilities to manage monitors, resolutions, wallpapers and timed wallpapers
+* [waypaper](https://github.com/anufrievroman/waypaper) - GUI frontend for swaybg/swww to switch wallpapers
 * [wpaperd](https://github.com/danyspin97/wpaperd) - Wallpaper daemon that shows random wallpapers from a directory and changes them after some time
 * [wbg](https://codeberg.org/dnkl/wbg) - Super simple wallpaper application for Wayland compositors
-* [waypaper](https://github.com/anufrievroman/waypaper) - GUI frontend for swaybg/swww to switch wallpapers
 
 ## License
 
