@@ -215,6 +215,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [wayfarer](https://github.com/stronnag/wayfarer) - Screen recorder for GNOME
 * [wayrec](https://invent.kde.org/bharadwaj-raju/wayrec) - Experimental screen recorder for Wayland using the freedesktop ScreenCast portal
 * [wf-recorder](https://github.com/ammen99/wf-recorder) - A utility program for screen recording of `wlroots`-based compositors (more specifically, those that support `wlr-screencopy-v1` and `xdg-output`)
+* [wl-mirror](https://github.com/Ferdi265/wl-mirror) - A simple Wayland output mirror client
 * [wl-screenrec](https://github.com/russelltg/wl-screenrec) - High performance wlroots screen recording, featuring hardware encoding
 * [wlrobs](https://hg.sr.ht/~scoopta/wlrobs) - An obs-studio plugin that allows you to screen capture on wlroots based wayland compositors
 * [wshowkeys](https://git.sr.ht/~sircmpwn/wshowkeys) - Displays keys being pressed on a Wayland session
