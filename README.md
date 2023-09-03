@@ -48,6 +48,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [Gammastep](https://gitlab.com/chinstrap/gammastep) - Day/night gamma modifier that adjusts the color temperature of your screen.
 * [Wlsunset](https://sr.ht/~kennylevinsen/wlsunset/) - Day/night gamma adjustments for Wayland compositors supporting wlr-gamma-control-unstable-v1
 * [Clight](https://github.com/FedeDP/Clight) - Day/night gamma adjustments for Wayland compositors supporting wlr-gamma-control-unstable-v1; automatic screen backlight calibration to match ambient brightness using either webcam or ambient light sensor devices; screen dimming.
+* [Luminance](https://github.com/sidevesh/Luminance) - A simple GTK application to control brightness of displays including external displays supporting DDC/CI
 
 ## Browsers without X library dependency
 * Firefox and forks
