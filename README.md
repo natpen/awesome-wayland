@@ -241,6 +241,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 ## Status Bars
 
 * [i3status-rust](https://github.com/greshake/i3status-rust) - Very resource-friendly and feature-rich replacement for i3status, written in pure Rust
+* [ironbar](https://github.com/JakeStanger/ironbar) - A customisable and feature-rich GTK bar for wlroots compositors, written in Rust, supporting content-rich popoups.
 * [rootbar](https://hg.sr.ht/~scoopta/rootbar) - Root Bar is a bar for wlroots based Wayland compositors such as sway
 * [sfwbar](https://github.com/LBCrion/sfwbar) - Sway Floating Window Bar is a taskbar for Sway, focused on a stacking layout workflow
 * [waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors
